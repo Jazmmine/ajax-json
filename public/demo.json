@@ -1,0 +1,18 @@
+{
+	"nombre": "Jazmine",
+	"apellido": "Angoma Cano",
+	"edad": "22",
+	"fechaNacimiento": "05/06/94",
+	"email": "jazmine.angoma@gmail.com",
+	"hobbies": [
+		"escuchar musica",
+		"bailar",
+		"leer",
+		"comer"
+	],
+	"mascota": {
+		"especie": "gato",
+		"nombre": "Tica",
+		"edad": "2 años"
+	} 
+}
