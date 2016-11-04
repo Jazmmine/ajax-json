@@ -4,7 +4,7 @@ var plantilla = "<div>" + "<p><strong>Nombre: </strong>__nombre__</p>" + "</div>
 
 $(document).ready(function () {
 	$.ajax({
-		url:"http://localhost:3001/demo.json",
+		url:"http://localhost/demo.json",
 		type: "GET",
 		success: function(response){
 			$("#datos").html(plantilla
